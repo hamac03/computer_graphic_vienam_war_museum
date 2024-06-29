@@ -36,5 +36,7 @@ export const setupScene = () => {
     renderer.setSize(window.innerWidth, window.innerHeight); // update the size of the renderer
   }
 
+  
   return { camera, controls, renderer }; // return the camera, controls, and renderer so that they can be used in other modules
 };
+

@@ -46,9 +46,10 @@ addObjectsToScene(scene, paintings);
 setupPlayButton(controls);
 setupEventListeners(controls);
 
+
 // Sử dụng Promise.all để tải tất cả các tài nguyên để có thể loadbounding box
 Promise.all([
-  setupAudio(camera), // Tải âm thanh
+  setupAudio(camera),
   loadTankModel(scene),
   loadHowitzerModel(scene),
   loadPedestalModel(scene),

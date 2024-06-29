@@ -32,7 +32,7 @@ export const loadPedestalModel = (scene) => {
         });
 
         // Add the pedestal to the scene
-        pedestal.link = "/3D-art-gallery/Info_painting/Pedestal_BacHo.html";
+        pedestal.link = "/final-project/Info_painting/Pedestal_BacHo.html";
         pedestal.title = 'Chủ tịch Hồ Chí Minh'
         scene.add(pedestal);
         // Optionally, you can perform any additional manipulation or processing here
