@@ -22,7 +22,8 @@
 
 ### Lưu ý
 
-Đồ án sử dụng một vài model từ Sketchfab tương đối nặng nên không thể up lên GitHub. Vui lòng tải bản đầy đủ tại [Google Drive](https://drive.google.com/file/d/1R5ZuWmVr-71twGZKNesnBeTn3Zvcgx6w/view?usp=sharing).
+Đồ án sử dụng một vài model từ Sketchfab tương đối nặng nên không thể up lên GitHub. Vui lòng tải bản đầy đủ tại [Google Drive](https://drive.google.com/file/d/1pvWiIrqVDLUsA1e9QhENg06210hi-2Hl/view?usp=sharing).
+
 
 ### Hướng dẫn cài đặt và chạy đồ án
 
@@ -52,7 +53,6 @@
     ```
 
 - Sau khi chạy lệnh này, đồ án sẽ được khởi động và bạn có thể truy cập vào trình duyệt để xem bảo tàng chiến tranh Việt Nam.
+- Demo: [Google Drive](https://drive.google.com/file/d/18zGAgtp3pokjmtkTmDO-s28gsp0Ok4kw/view?usp=sharing)
 
-### Liên hệ
-
-Nếu bạn có bất kỳ câu hỏi hoặc gặp vấn đề gì trong quá trình cài đặt và chạy đồ án, vui lòng liên hệ với [Instructor Name] qua email [Instructor Email].
+### Link đến Repository [Github](https://github.com/hamac03/computer_graphic_vienam_war_museum)
