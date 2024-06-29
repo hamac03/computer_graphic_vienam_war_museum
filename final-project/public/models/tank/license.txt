@@ -1,0 +1,11 @@
+Model Information:
+* title:	Challenger II
+* source:	https://sketchfab.com/3d-models/challenger-ii-f7869d0d85ff4a65b2e1333ab00b25cf
+* author:	buh (https://sketchfab.com/buh-late)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Challenger II" (https://sketchfab.com/3d-models/challenger-ii-f7869d0d85ff4a65b2e1333ab00b25cf) by buh (https://sketchfab.com/buh-late) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

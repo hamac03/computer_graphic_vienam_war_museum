@@ -1,0 +1,11 @@
+Model Information:
+* title:	Frame01_lowPoly【improved ver.】
+* source:	https://sketchfab.com/3d-models/frame01-lowpolyimproved-ver-1b673171a95b44efaf406c175734a743
+* author:	toya_mimura (https://sketchfab.com/toya_mimura)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Frame01_lowPoly【improved ver.】" (https://sketchfab.com/3d-models/frame01-lowpolyimproved-ver-1b673171a95b44efaf406c175734a743) by toya_mimura (https://sketchfab.com/toya_mimura) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

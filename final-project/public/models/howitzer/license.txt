@@ -1,0 +1,11 @@
+Model Information:
+* title:	howitzer 2a65 msta
+* source:	https://sketchfab.com/3d-models/howitzer-2a65-msta-6bd63aac4fc241d0bdacc5e4639ffd0d
+* author:	fabertibler (https://sketchfab.com/fabertibler)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "howitzer 2a65 msta" (https://sketchfab.com/3d-models/howitzer-2a65-msta-6bd63aac4fc241d0bdacc5e4639ffd0d) by fabertibler (https://sketchfab.com/fabertibler) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
