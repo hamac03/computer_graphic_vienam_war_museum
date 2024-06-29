@@ -43,7 +43,7 @@
     cd /path/to/final-project
     ```
 
-#### Bước 3: Chạy dự án
+#### Bước 3: Chạy đồ án
 
 - Sử dụng lệnh `npx vite` để chạy đồ án:
 
@@ -51,8 +51,8 @@
     npx vite
     ```
 
-- Sau khi chạy lệnh này, dự án sẽ được khởi động và bạn có thể truy cập vào trình duyệt để xem bảo tàng chiến tranh Việt Nam.
+- Sau khi chạy lệnh này, đồ án sẽ được khởi động và bạn có thể truy cập vào trình duyệt để xem bảo tàng chiến tranh Việt Nam.
 
 ### Liên hệ
 
-Nếu bạn có bất kỳ câu hỏi hoặc gặp vấn đề gì trong quá trình cài đặt và chạy dự án, vui lòng liên hệ với [Instructor Name] qua email [Instructor Email].
+Nếu bạn có bất kỳ câu hỏi hoặc gặp vấn đề gì trong quá trình cài đặt và chạy đồ án, vui lòng liên hệ với [Instructor Name] qua email [Instructor Email].
